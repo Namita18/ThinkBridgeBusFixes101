@@ -1,0 +1,6 @@
+@thinkBridgeASP.netproject_HostAddress = http://localhost:5143
+
+GET {{thinkBridgeASP.netproject_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
